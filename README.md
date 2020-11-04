@@ -144,3 +144,5 @@ run(["tizonia", "--youtube-audio-stream", urls[trk_num]])
 ```
 
 As described in the first section, `subprocess` allows Python to run `tizonia` from the CLI. `tizonia` gets the YouTube audio stream, and plays it.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
